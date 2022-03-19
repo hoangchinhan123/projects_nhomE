@@ -1,2 +1,2 @@
 
-day la file week1.txt thuoc branch week1
+day la file week1.txt thuoc branch week1 ma thoi
